@@ -3,7 +3,7 @@ import requests
 from telegram import Bot
 
 # Токен и группа берём из секретов
-TELEGRAM_TOKEN = "8420252189:AAH4LLMGp3kZIVxmm3R9T8k-7o5lknc5ZCg"
+TELEGRAM_TOKEN = ""
 CHAT_ID = "-1003318016772"  # твоя группа
 
 bot = Bot(token=TELEGRAM_TOKEN)
